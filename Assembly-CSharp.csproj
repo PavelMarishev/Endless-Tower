@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\GameSettings.cs" />
     <Compile Include="Assets\Scripts\PoolManager.cs" />
+    <None Include="Assets\Shaders\patch-924648.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>E:/Unity/Projects/Mempic/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
